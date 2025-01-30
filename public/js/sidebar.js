@@ -190,7 +190,4 @@ function limp(){
   op7.innerHTML = ""; op8.innerHTML = ""; op9.innerHTML = "";
 }
 
-//f
- 
-
-
+//fin 

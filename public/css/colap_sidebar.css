@@ -140,11 +140,9 @@ body {
     .tooltips:hover > .tooltips-content {
       visibility: visible; /* shows the tooltip content on mouse over */
     }
-    
     .mgbottom_15{
        margin-botton: 15px;
     }
-
     .mgbottom_25{
        margin-botton: 30px;
     }
@@ -176,12 +174,11 @@ body {
       animation-name: myAnimation;
       width: 100px;
       height: 70px;
-      background-image:url("../publlic/img/menuhamb/fondoside3.png");
+      background-image:url("../public/img/menuhamb/fondoside3.png");
       transition-property: width, height, background;
       transition-duration: 1s;
       animation-duration: 1s;
     }
-    
      #mySidebar: hover {
       width: 200px;
       height: 200px;
